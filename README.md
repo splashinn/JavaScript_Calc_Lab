@@ -1,10 +1,5 @@
-JavaScript Calculator Lab
-===================
+# JavaScript Calculator
+<br>
+## About
+<br>Simple calculator app built with HTML5, CSS3, and JavaScript
 
-JavaScript Calculator
-
-**Simple Calculator App**
-- Add
-- Subtract
-- Multiply
-- Divide
